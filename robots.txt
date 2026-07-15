@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-t7d9ls.bento4dpei.site/sitemap.xml
